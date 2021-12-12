@@ -1,4 +1,4 @@
-### Exercício 1
+### Exercício 1 - FILTER
 
 - Implemente um filter que identifica se o site está em manutenção ou não. Caso esteja,
 o usuário deve ser direcionado automaticamente para uma página que informa que o
